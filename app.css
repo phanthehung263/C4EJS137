@@ -1,0 +1,15 @@
+#model-box{
+    background-color:rgb(217, 227, 228);
+    background-position: 0%;
+}
+.title{
+    color:grey;
+    font-style:normal;
+    font-family: 'Roboto', sans-serif;
+}
+li{
+    font-family:Arial;
+}
+.fa-solid.fa-star{
+    color:gold
+}
